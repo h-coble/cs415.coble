@@ -2,12 +2,14 @@
 #include<cstring>
 #include<iostream>
 
+//Hayden Coble
+//
 //After spending hours trying to find a good way to do this,
 //I ended up finding *a* solution on Chegg (although I despise doing so) 
-//because all my attempts left me at a loss. 
+//because all my attempts left me at a loss, plus or minus waaaaay too many lines of garbage. 
 //I've modified it a bit and left comments to show my understanding of how it works.
 //One of the big changes is that I tried to fix some memory leaks.
-//The original can be found here: 
+//The original can be found here: https://www.chegg.com/homework-help/questions-and-answers/char-parsecommandline-string-acommandline-function-takes-input-parameter-splits-string-arr-q43837138
 
 bool isOp(char x)
 {
