@@ -10,7 +10,7 @@ include_directories(../include)
 
 #add the executable
 
-add_executable(parseCommandLine parseCommandLine.cpp)
+add_executable(CobleParseCommandLine CobleParseCommandLine.cpp)
 
 
 
