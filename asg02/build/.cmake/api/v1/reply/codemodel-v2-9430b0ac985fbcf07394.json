@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "minihell",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "cl::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cl-Debug-88d3a7c19862292672f2.json",
+					"name" : "cl",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exec_ex::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exec_ex-Debug-9f3cb3ec6558fd3964d9.json",
+					"name" : "exec_ex",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hs-Debug-24ba13cf4ed171765356.json",
+					"name" : "hs",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/hayden/Documents/GitHub_Repos/cs415.coble/asg02/build",
+		"source" : "/home/hayden/Documents/GitHub_Repos/cs415.coble/asg02"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

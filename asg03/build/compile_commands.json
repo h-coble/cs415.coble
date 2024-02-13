@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/hayden/Documents/GitHub_Repos/cs415.coble/asg03/build",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/inputsim.dir/inputsim.cpp.o -c /home/hayden/Documents/GitHub_Repos/cs415.coble/asg03/inputsim.cpp",
+  "file": "/home/hayden/Documents/GitHub_Repos/cs415.coble/asg03/inputsim.cpp"
+}
+]

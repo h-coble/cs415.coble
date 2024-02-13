@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/hayden/Documents/GitHub_Repos/cs415.coble/asg02/build",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/cl.dir/CobleParseCommandLine.cpp.o -c /home/hayden/Documents/GitHub_Repos/cs415.coble/asg02/CobleParseCommandLine.cpp",
+  "file": "/home/hayden/Documents/GitHub_Repos/cs415.coble/asg02/CobleParseCommandLine.cpp"
+},
+{
+  "directory": "/home/hayden/Documents/GitHub_Repos/cs415.coble/asg02/build",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/exec_ex.dir/exec_ex.cpp.o -c /home/hayden/Documents/GitHub_Repos/cs415.coble/asg02/exec_ex.cpp",
+  "file": "/home/hayden/Documents/GitHub_Repos/cs415.coble/asg02/exec_ex.cpp"
+},
+{
+  "directory": "/home/hayden/Documents/GitHub_Repos/cs415.coble/asg02/build",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/hs.dir/minishell.cpp.o -c /home/hayden/Documents/GitHub_Repos/cs415.coble/asg02/minishell.cpp",
+  "file": "/home/hayden/Documents/GitHub_Repos/cs415.coble/asg02/minishell.cpp"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/exec_ex.dir/exec_ex.cpp.o -o exec_ex 
