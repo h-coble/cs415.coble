@@ -1,0 +1,4 @@
+F:/GitSSD/cs415.coble/asg03/out/build/x64-Debug/CMakeFiles/inputsim.dir
+F:/GitSSD/cs415.coble/asg03/out/build/x64-Debug/CMakeFiles/verify.dir
+F:/GitSSD/cs415.coble/asg03/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+F:/GitSSD/cs415.coble/asg03/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

@@ -194,7 +194,7 @@ int main(int argc, char *argv[])
     {
       
       string sample = inputQueue.back();
-      inputQueue.pop_back();
+      //inputQueue.pop_back();
       cout << inputQueue.size()<< endl;    
     }
     mx.unlock();
@@ -213,5 +213,6 @@ int main(int argc, char *argv[])
     }
   }
   cout << "Queue read, closing...\n";
+  
   return 0;
 }
