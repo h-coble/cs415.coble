@@ -47,6 +47,7 @@ void simulateInput(int generatorNumber) {
   }
 }
 
+
 int main(int argc, char *argv[])
 {
   if (!outputStream.is_open()) 
@@ -63,18 +64,16 @@ int main(int argc, char *argv[])
   // the thread function, and then detaching from the thread.
   for(int i = 0; i < 10; i++)
   {
-    std::thread t(simulateInput,i);
-    tVec.push_back(t);
+    std::thread t(simulateInput, i);
+    tVec.push_back(move(t));
     tVec[i].detach();
   }
-  
-  // Then make the main thread (here) wait for two seconds ("minutes" on canvas - HC)
-  std::this_thread::sleep_for(std::chrono::milliseconds(2000));
+  std::cout << "Sleeping for 2 minutes...\n";
+  // Then make the main thread (here) wait for two seconds ("minutes" on canvas hence * 120 - HC)
+  std::this_thread::sleep_for(std::chrono::milliseconds(1000 * 120));
+  std::cout << "Emptying Queue...\n";
+  std::this_thread::sleep_for(std::chrono::milliseconds(1000));
 
-
-  twoMin = false; 
-  //Kills threads, I don't think it's necessary to lock for this; 
-  //extra readings are acceptable in my opinion for this problem, so this isn't critical -HC
   
   //and  write an 
   // infinite loop that checks to see if there is anything on the
@@ -88,11 +87,13 @@ int main(int argc, char *argv[])
     {
       outputStream << sampleQueue.front().value << ", " << sampleQueue.front().generator << "\n";
       std::cout << sampleQueue.front().value << ", " << sampleQueue.front().generator << "\n";
+      sampleQueue.pop();
     }
     else
-    {
-      break;
-    }
+      {
+        std:: cout << "Queue is empty, awaiting input...\n";
+        std::this_thread::sleep_for(std::chrono::milliseconds(1000));
+      }
   }
   // Note: Don't forget to lock the critical section using lock_guard()
   // and a mutex.

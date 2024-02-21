@@ -1,0 +1,32 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake
+F:/GitSSD/cs415.coble/midterm/CMakeLists.txt
+F:/GitSSD/cs415.coble/midterm/build/CMakeFiles/3.28.1/CMakeCCompiler.cmake
+F:/GitSSD/cs415.coble/midterm/build/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake
+F:/GitSSD/cs415.coble/midterm/build/CMakeFiles/3.28.1/CMakeRCCompiler.cmake
+F:/GitSSD/cs415.coble/midterm/build/CMakeFiles/3.28.1/CMakeSystem.cmake
