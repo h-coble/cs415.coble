@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/Q1.dir/CobleQ1.cpp.o -o Q1 

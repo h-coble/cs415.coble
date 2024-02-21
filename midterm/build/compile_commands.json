@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/hayden/Documents/GitHub_Repos/cs415.coble/midterm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/Q2.dir/CobleQ2.cpp.o -c /home/hayden/Documents/GitHub_Repos/cs415.coble/midterm/CobleQ2.cpp",
+  "file": "/home/hayden/Documents/GitHub_Repos/cs415.coble/midterm/CobleQ2.cpp"
+},
+{
+  "directory": "/home/hayden/Documents/GitHub_Repos/cs415.coble/midterm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/Q1.dir/CobleQ1.cpp.o -c /home/hayden/Documents/GitHub_Repos/cs415.coble/midterm/CobleQ1.cpp",
+  "file": "/home/hayden/Documents/GitHub_Repos/cs415.coble/midterm/CobleQ1.cpp"
+}
+]
