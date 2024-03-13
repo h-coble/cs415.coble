@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\HaydenCoble\Documents\GitHub\cs415.coble\asg06\ScheduleSim.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\HaydenCoble\Documents\GitHub\cs415.coble\asg06\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9FF49FE7-5869-33C6-AB43-21125EA5A398}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
