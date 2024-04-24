@@ -1,0 +1,4 @@
+F:/GitSSD/cs415.coble/Exam02/build/CMakeFiles/Read-Write.dir
+F:/GitSSD/cs415.coble/Exam02/build/CMakeFiles/Read-Write3.dir
+F:/GitSSD/cs415.coble/Exam02/build/CMakeFiles/ALL_BUILD.dir
+F:/GitSSD/cs415.coble/Exam02/build/CMakeFiles/ZERO_CHECK.dir
